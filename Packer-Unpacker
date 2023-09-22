@@ -1,0 +1,7 @@
+Packer-Unpacker:
+Technology: Java Programming
+Description:
+- This project works in two different parts. First part does the packing activity and second part does the unpacking activity.
+- This project accepts one folder as an input and the packing activity of that project will combine all the contents of that folder into a single file.
+- In case of Unpacking acitivity, our project accepts that packed file as an input and it will generate all the files from that folder again.
+- This activity is called as unpacking acitivity.
